@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DCA Signature</string>
+    <string name="sign">DCA Signature is more than just a Cafe - it is a destination that aims to provide a memorable experience to its guests.The cafes about page reflects its commitment to quality, innovation, and customer satisfaction. At DCA Signature , they take pride in their concept dining experience that bridges the gap between traditional and modern flavors. Their menu is carefully crafted to showcase the best of both worlds, creating a unique fusion of tastes that are both familiar and exciting. But DCA Signature is more than just food. It is a place where people can come together, share stories, and create new memories. The Cafes cozy ambiance and warm hospitality create a welcoming atmosphere that makes guests feel at home. Moreover, DCA Signature commitment to quality extends beyond its menu. They are dedicated to using only the freshest and highest-quality ingredients in their dishes, ensuring that every meal is a feast for the senses. Whether you are looking for a place to enjoy a delicious meal, celebrate a special occasion, or just unwind after a long day, DCA Signature is the perfect choice. With its exceptional food, warm ambiance, and friendly service, it is a destination that is sure to leave a lasting impression.</string>
+    <string name="acc">For more information visit or contact us on our social media accounts.</string>
+    <string name="location">Location</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="email">Email</string>
+    <string name="about">ABOUT</string>
+    <string name="plus_button">Plus Button</string>
+    <string name="minus_button">Minus Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_fragment_1">These are the list of new orders:</string>
+    <string name="text_fragment2">These are the list of to update orders:</string>
+    <string name="text_fragment_3">These are the list of finished orders:</string>
+    <string name="tab_label1">Accept Orders</string>
+    <string name="tab_label2">Update Orders</string>
+    <string name="tab_label3">Finished Orders</string>
+</resources>

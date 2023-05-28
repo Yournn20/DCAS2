@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17112313935",
+    "project_id": "dcas-617d7",
+    "storage_bucket": "dcas-617d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17112313935:android:b3d6dc7ae48680a652fa3a",
+        "android_client_info": {
+          "package_name": "com.example.dcas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17112313935-f8ken2ucfh5agokq4sar335cof8kuegt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUjRV1jY4SiS43odf9zYzL6lbOJzO4Ne0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17112313935-f8ken2ucfh5agokq4sar335cof8kuegt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
